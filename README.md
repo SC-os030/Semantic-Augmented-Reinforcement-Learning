@@ -243,7 +243,6 @@ This implementation builds upon several open-source libraries:
 
 * PyTorch
 * HuggingFace Transformers
-* GSM8K dataset
 
 ---
 
