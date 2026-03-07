@@ -182,33 +182,6 @@ results/metrics.txt
 
 ---
 
-# Expected Results
-
-Using **Flan-T5-Base**, typical performance is:
-
-| Dataset    | Accuracy |
-| ---------- | -------- |
-| GSM8K      | 55–63%   |
-| SVAMP      | 70–75%   |
-| MultiArith | 78–83%   |
-
-Actual results may vary slightly depending on hardware.
-
----
-
-# Output Files
-
-After training the following files are produced:
-
-results/
-
-stage1.pt
-final_model.pt
-config.json
-metrics.txt
-
----
-
 # Simplified Implementation Notice
 
 This repository provides a **simplified research implementation** of the proposed framework.
