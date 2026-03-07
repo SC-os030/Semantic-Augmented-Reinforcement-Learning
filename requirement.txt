@@ -1,0 +1,9 @@
+torch>=2.1
+transformers>=4.39
+datasets>=2.16
+accelerate>=0.25
+tqdm
+numpy
+matplotlib
+sentencepiece
+scikit-learn
